@@ -1,2 +1,2 @@
-# hover-docs-media
-Repository storing the media files for the documentation of hover
+# hover-gallery
+Repository storing the media files for usage applications of hover
